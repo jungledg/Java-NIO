@@ -1,4 +1,4 @@
-package NIO;
+package NIO.NIO;
 
 import javax.swing.*;
 import java.awt.*;
